@@ -1,3 +1,4 @@
+palette = "catppuccin_mocha"
 "$schema" = 'https://starship.rs/config-schema.json'
 
 format = """
